@@ -1,6 +1,6 @@
 # SimpleRPG
 
-A RPG with only 1 file(expanding soon).
+A simple RPG!.
 
 # Step 1
 Go to releases
