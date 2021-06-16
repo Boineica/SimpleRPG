@@ -16,16 +16,16 @@ input == ('Defend')
 print('Actually, you dont have a shield, you use your arms instead.\nYou lose 1 HP\nYour HP: 2\nThe wolfs HP: 3')
 HP = 2
 
-ar2 = input('\nThe wolf attacks you again.\nAttack, Defend or Look in the water?\n')
+ar2 = input('\nThe wolf attacks you again.\nAttack or Defend?\n')
 print('.')
 print('..')
 print('...')
 input == ('Attack')
-print('You and the wolf are almost dying.💀💀💀💀')
+print('You and the wolf are almost dying.')
 HP = 1
 WHP = 1
 input == ('Defend')
-print('YOU DONT HAVE A SHIELD YET!\nYOU ARE ALMOST DEAD!💀💀')
+print('YOU DONT HAVE A SHIELD YET!\nYOU ARE ALMOST DEAD!')
 HP = 1
 input == ('Look')
 print('You just found a hidden choice!\n Its an easter egg!') # if you found this in the code, congratulations!
@@ -49,3 +49,37 @@ HP = 0
 input == ('Throw a stone') # An easter egg
 WHP = 0.5
 print('Whoa, the wolf is almost dead!')
+input == ('Omae wa mou shindeiru') # More to come!
+WHP = 0
+input == ('Make wolfs extinct') # Oh, not again...is
+W = 0
+print('You made wolfs extinct...') 
+input == ('Kill the wolf with your mouth')
+WHP == 0
+input == ('Be an idiot') # The wolf just goes "Omae wa mou shindeiru".
+print('.')
+print('..')
+print('...')
+print('.')
+print('..')
+print('...')
+print('.')
+print('..')
+print('...')
+print('.')
+print('..')
+print('...')
+print('.')
+print('..')
+print('...') 
+print('AAAAAAAAAAAAAAAAAAA!')
+HP = 0
+WHP = 10000000000000000000000000
+print('You made humans extinct.')
+
+
+HP == 0
+print('You lose.')
+
+WHP == 0
+print('You win!')
