@@ -1,6 +1,6 @@
 # SimpleRPG
 
-A simple RPG!.
+A simple RPG!
 
 # Step 1
 Go to releases
