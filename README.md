@@ -1,3 +1,4 @@
+This is a repository that is so active because of me.
 # SimpleRPG
 
 A simple RPG!
