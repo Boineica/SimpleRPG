@@ -1,7 +1,7 @@
 HP = 3
 WHP = 3
 S = 0
-name = input('What is your name?\n')
+name = input('What is your name?\n') # This started out from a replit example!
 print('Hi, %s!' % name )
 
 ar1 = input('A Wolf tries to attack you, what will you do?\nDefend or attack?\n')
@@ -80,6 +80,6 @@ print('You made humans extinct.')
 
 HP == 0
 print('You lose.')
-
+ exit()
 WHP == 0
 print('You win!')
